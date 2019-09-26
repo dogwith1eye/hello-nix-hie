@@ -1,4 +1,4 @@
 {
     "languageServerHaskell.useCustomHieWrapper": true,
-    "languageServerHaskell.useCustomHieWrapperPath": "${workspaceFolder}/.vscode/hie.sh",
+    "languageServerHaskell.useCustomHieWrapperPath": "${workspaceFolder}/hie.sh",
 }
